@@ -1,6 +1,6 @@
 {
   "title": "html2canvas",
-  "name": "html2canvas",
+  "name": "hn-html2canvas",
   "description": "Screenshots with JavaScript",
   "main": "dist/html2canvas.js",
   "version": "0.5.0-beta2",
